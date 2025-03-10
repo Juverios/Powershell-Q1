@@ -12,4 +12,6 @@
 | _mkdir_ | **New-Item** |
 ----
 ## Commande utilisé :
-- **PS C:\Users\moi> Get-Alias**
+-  `**Get-help**`
+-  `**Get-Alias**`
+
