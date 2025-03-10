@@ -11,7 +11,7 @@
 | _rm_ | **Remove-Item** |
 | _mkdir_ | **New-Item** |
 ----
-## Commande utilisé :
+## Commandes utilisées :
 -  `**Get-help**`
 -  `**Get-Alias**`
 
