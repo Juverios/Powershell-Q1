@@ -9,7 +9,7 @@
 | _cp_ | **Copy-Item** |
 | _cat_ | **Get-Content** |
 | _rm_ | **Remove-Item** |
-| _mkdir_ | **mkdir** |
+| _mkdir_ | **New-Item** |
 ----
 ## Commande utilisé :
 - **PS C:\Users\moi> Get-Alias**
